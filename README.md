@@ -208,5 +208,4 @@ COLOR_SCHEMES = {
 - 验证目标单元格包含数值数据
 
 ## License
-
-MIT
+Apache-2.0
