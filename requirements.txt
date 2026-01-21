@@ -1,0 +1,15 @@
+# Streamlit UI
+streamlit>=1.31.0
+
+# Excel processing
+openpyxl>=3.1.2
+
+# Strands Agent SDK
+strands-agents
+
+# AWS Bedrock support
+boto3>=1.34.0
+botocore>=1.34.0
+
+# Utilities
+python-dotenv>=1.0.0
